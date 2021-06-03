@@ -38,7 +38,7 @@ For simplicity, the instructions are only for running the components on the loca
 1. Open an other terminal and run the OPC UA Streams Gateway.
     ```bash
     # Add the OPC UA Server url you want to connect e.g. "opc.tcp://localhost:4855"
-    cd opcua-streams-gateway && cargo run -- <url>
+    cd opcua-streams-gateway && cargo run --release -- <url>
     ```
 
 1. Open another terminal and run the OPC UA Streams Subscriber.
