@@ -2,7 +2,7 @@
 name = "i2th-opcua-sensors-server"
 authors = ["Hauke Jung <hauke.jung@outlook.de>"]
 edition = "2018"
-version = "0.1.0"
+version = "0.2.0"
 
 [dependencies]
 chrono = "0.4"

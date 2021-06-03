@@ -1,6 +1,6 @@
 [package]
 name = "i2th-opcua-streams-subscriber"
-version = "0.1.0"
+version = "0.2.0"
 authors = ["Hauke Jung <hauke.jung@outlook.de>"]
 edition = "2018"
 
